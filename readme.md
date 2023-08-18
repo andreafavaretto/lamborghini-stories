@@ -1,4 +1,4 @@
-# Lamborghini Sotries
+# Lamborghini Stories
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
